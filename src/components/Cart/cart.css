@@ -1,0 +1,19 @@
+.cart-container img{
+    width: 100px;
+
+}
+.cart-container{
+    display: inline-flex;
+    align-items: center;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+
+    border: 2px solid dodgerblue;
+    border-radius: 10px;
+}
+.cart{
+    display: block;
+    gap: 15px;
+    margin: 10px;
+}
